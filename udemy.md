@@ -1,61 +1,63 @@
 # Table of Contents
 
-1.  [Linux for network engineers, practical Linux with GNS3](#org10a825f)
-	1.  [GNS3](#org5254565)
-2.  [The Complete Cyber Security Course: Hackers Exposed!](#org0a7f414)
-	1.  [Goals and Learning Objectives](#org8abe4d7)
-		1.  [Thread Assessment and Risk Assessments](#orgef927c3)
-	2.  [Why you Need Security - The value of a Hack](#org877d49d)
-	3.  [Top 3 Things to stay safe online](#org1c46de3)
-	4.  [Security BUgs and Vulnerabilities - The Vulnerability Landscape](#orgf57017f)
-	5.  [Hackers, crackers and cyber criminals, ScriptKiddies](#orgc3e280d)
-	6.  [Malware, viruses, rootkits, and RATs](#orgfc2a445)
-		1.  [MacroVirus](#orgff614cc)
-		2.  [Stealth Virus](#org731ff56)
-		3.  [Polymorphic Virus](#org83a899b)
-		4.  [Self-garbling Virus](#orgfd9579e)
-		5.  [Bots & Zombies](#org1b6374d)
-		6.  [Worms](#orga0705ea)
-		7.  [OS Rootkit](#orgc9ca3b4)
-		8.  [Firmware Rootkit](#org36c5428)
-		9.  [KeyLogger](#org7b383fb)
-		10. [Trojan](#orgdc41886)
-		11. [Remote Access Tool (RAT)](#orgca86414)
-		12. [Ransomware](#org9a13a63)
-		13. [Malvertisement](#orgd2e9dc2)
-		14. [Spyware](#orgd138b12)
-		15. [Adware](#org45a95d8)
-		16. [Scareware](#org1f310e8)
-		17. [Browser Hijacking](#org770b658)
-		18. [Potentially Unwanted Programs (PUPs)](#org1aa16ae)
-		19. [Phishing](#org5dc177c)
-		20. [XSS Cross Site Scripting (Reflected)](#orgc008be5)
-		21. [Spamming and Doxing](#org0d46172)
-		22. [Social Engineering, Scams and frauds](#org60ac2b0)
-		23. [CPU Hijackers - Crypto Mining Malware and Cryptojackers](#orgda4ada4)
+1.  [Linux for network engineers, practical Linux with GNS3](#orgadbb459)
+	1.  [GNS3](#org9502804)
+2.  [The Complete Cyber Security Course: Hackers Exposed!](#org8cec2c6)
+	1.  [Goals and Learning Objectives](#org1aea1ff)
+		1.  [Thread Assessment and Risk Assessments](#org4f9b8d8)
+		2.  [Something](#orgaf24390):akfdsk:
+		3.  [Something else](#org5b08304):dd:
+	2.  [Why you Need Security - The value of a Hack](#org37057fd)
+	3.  [Top 3 Things to stay safe online](#org386b0dd)
+	4.  [Security BUgs and Vulnerabilities - The Vulnerability Landscape](#org52ca7be)
+	5.  [Hackers, crackers and cyber criminals, ScriptKiddies](#org369af3f)
+	6.  [Malware, viruses, rootkits, and RATs](#org3d19e14)
+		1.  [MacroVirus](#orgdd46181)
+		2.  [Stealth Virus](#org4f1cc37)
+		3.  [Polymorphic Virus](#org68f9eb8)
+		4.  [Self-garbling Virus](#org637a8d6)
+		5.  [Bots & Zombies](#orgc59f4a1)
+		6.  [Worms](#org9cde189)
+		7.  [OS Rootkit](#org6e93531)
+		8.  [Firmware Rootkit](#org70e828a)
+		9.  [KeyLogger](#org8e825e6)
+		10. [Trojan](#org211be84)
+		11. [Remote Access Tool (RAT)](#org853e03a)
+		12. [Ransomware](#org5396195)
+		13. [Malvertisement](#orgb9c7a7e)
+		14. [Spyware](#org08c9eb8)
+		15. [Adware](#org096cccb)
+		16. [Scareware](#org9ebf968)
+		17. [Browser Hijacking](#orgc56f656)
+		18. [Potentially Unwanted Programs (PUPs)](#org3a64d29)
+		19. [Phishing](#org8ad0c9f)
+		20. [XSS Cross Site Scripting (Reflected)](#orgecf6b45)
+		21. [Spamming and Doxing](#org2fdbb0b)
+		22. [Social Engineering, Scams and frauds](#org92e8441)
+		23. [CPU Hijackers - Crypto Mining Malware and Cryptojackers](#orga0f4dd9)
 
 
 
-<a id="org10a825f"></a>
+<a id="orgadbb459"></a>
 
 # Linux for network engineers, practical Linux with GNS3
 
 Here, I will note all the important information I get on this course.
 
 
-<a id="org5254565"></a>
+<a id="org9502804"></a>
 
 ## GNS3
 
 > Emulation, configuration, testing and troubleshooting virtual and real networks.
 
 
-<a id="org0a7f414"></a>
+<a id="org8cec2c6"></a>
 
 # The Complete Cyber Security Course: Hackers Exposed!
 
 
-<a id="org8abe4d7"></a>
+<a id="org1aea1ff"></a>
 
 ## Goals and Learning Objectives
 
@@ -89,7 +91,7 @@ Some Risk Assessment Methods are:
 -   <https://www.securityforum.org/>
 
 
-<a id="orgef927c3"></a>
+<a id="org4f9b8d8"></a>
 
 ### Thread Assessment and Risk Assessments
 
@@ -129,6 +131,118 @@ The more privacy you need, the more security controls.
 > the same time being permitted private thoughts and actions. It's about personal
 > dignity - Bruce Schneier
 
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Something</th>
+<th scope="col" class="org-left">test</th>
+<th scope="col" class="org-left">skjfd</th>
+<th scope="col" class="org-left">tf</th>
+<th scope="col" class="org-left">fd</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">kdljf</td>
+<td class="org-left">lkj</td>
+<td class="org-left">lkj</td>
+<td class="org-left">lkjk</td>
+<td class="org-left">k</td>
+</tr>
+
+
+<tr>
+<td class="org-left">kkk</td>
+<td class="org-left">k</td>
+<td class="org-left">kk</td>
+<td class="org-left">k</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">j</td>
+<td class="org-left">k</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">kj</td>
+</tr>
+
+
+<tr>
+<td class="org-left">k</td>
+<td class="org-left">k</td>
+<td class="org-left">k</td>
+<td class="org-left">k</td>
+<td class="org-left">k</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">k</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">k</td>
+</tr>
+</tbody>
+</table>
+
+日本語　　そうか　そうですか
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<caption class="t-above"><span class="table-number">Table 1:</span> This is the caption for the next table (or link)</caption>
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">&#x2026;</td>
+<td class="org-left">&#x2026;</td>
+</tr>
+</tbody>
+</table>
+
+The Org homepage<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> now looks a lot better than it used to.
+&#x2026;
+
+  }
+\#+END<sub>EXAMPLE</sub>
+
+	if (lskdjfsd	) {
+
+
+	}
+
+
+<a id="orgaf24390"></a>
+
+### TODO Something     :akfdsk:
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-11-26 Fri&gt;</span></span>
+
+
+<a id="org5b08304"></a>
+
+### DONE Something else     :dd:
+
 **CIA TRIAD**
 
 Security attributes on an asset:
@@ -140,7 +254,7 @@ Security attributes on an asset:
 	GRAYLOG
 
 
-<a id="org877d49d"></a>
+<a id="org37057fd"></a>
 
 ## Why you Need Security - The value of a Hack
 
@@ -153,7 +267,7 @@ have a different problem, being it on your account, computer or
 internal LAN, so is important to be knowlegeable.
 
 
-<a id="org1c46de3"></a>
+<a id="org386b0dd"></a>
 
 ## Top 3 Things to stay safe online
 
@@ -180,7 +294,7 @@ These don't do much:
 -   Change password
 
 
-<a id="orgf57017f"></a>
+<a id="org52ca7be"></a>
 
 ## Security BUgs and Vulnerabilities - The Vulnerability Landscape
 
@@ -195,19 +309,19 @@ Some vulnerabilities are available through databases, like
 Exploit-DB and CVE.
 
 
-<a id="orgc3e280d"></a>
+<a id="org369af3f"></a>
 
 ## Hackers, crackers and cyber criminals, ScriptKiddies
 
 Capable hackers sell tools.
 
 
-<a id="orgfc2a445"></a>
+<a id="org3d19e14"></a>
 
 ## Malware, viruses, rootkits, and RATs
 
 
-<a id="orgff614cc"></a>
+<a id="orgdd46181"></a>
 
 ### MacroVirus
 
@@ -215,7 +329,7 @@ Code written in macros, that will be executed once an spreedsheet
 is executed. Well, any program that does macros falls in this category.
 
 
-<a id="org731ff56"></a>
+<a id="org4f1cc37"></a>
 
 ### Stealth Virus
 
@@ -224,7 +338,7 @@ something on the system, intercepting request to the system or
 kernel, providing bague information.
 
 
-<a id="org83a899b"></a>
+<a id="org68f9eb8"></a>
 
 ### Polymorphic Virus
 
@@ -232,7 +346,7 @@ Produces multiple operational copies of itself, with no identical
 parts, making it difficult to detect.
 
 
-<a id="orgfd9579e"></a>
+<a id="org637a8d6"></a>
 
 ### Self-garbling Virus
 
@@ -240,7 +354,7 @@ Known viruses yet with code modified so, it doesn't match known
 information from an antivirus.
 
 
-<a id="org1b6374d"></a>
+<a id="orgc59f4a1"></a>
 
 ### Bots & Zombies
 
@@ -249,14 +363,14 @@ once the Hacker has some sort of control to it, for sending DDoS
 attacks, for example.
 
 
-<a id="orga0705ea"></a>
+<a id="org9cde189"></a>
 
 ### Worms
 
 Viruses that spread to one machine to another.
 
 
-<a id="orgc9ca3b4"></a>
+<a id="org6e93531"></a>
 
 ### OS Rootkit
 
@@ -264,7 +378,7 @@ Worst software based malware, embedded into the kernel of the
 operating system, so it can hide its presence totally from the OS.
 
 
-<a id="org36c5428"></a>
+<a id="org70e828a"></a>
 
 ### Firmware Rootkit
 
@@ -273,56 +387,56 @@ formatting the drive won't help on this situation. This is highly
 advanced so, there are few hackers working on this, yet it is possible.
 
 
-<a id="org7b383fb"></a>
+<a id="org8e825e6"></a>
 
 ### KeyLogger
 
 Logs all keys on the machine you're using.
 
 
-<a id="orgdc41886"></a>
+<a id="org211be84"></a>
 
 ### Trojan
 
 Programs that appear to be one thing but are malware.
 
 
-<a id="orgca86414"></a>
+<a id="org853e03a"></a>
 
 ### Remote Access Tool (RAT)
 
 Allow remote access to a hacker to a system.
 
 
-<a id="org9a13a63"></a>
+<a id="org5396195"></a>
 
 ### Ransomware
 
 Encrypts all your data and asks for payment for it to be decrypted.
 
 
-<a id="orgd2e9dc2"></a>
+<a id="orgb9c7a7e"></a>
 
 ### Malvertisement
 
 Virus malware on ad.
 
 
-<a id="orgd138b12"></a>
+<a id="org08c9eb8"></a>
 
 ### Spyware
 
 Gather information and send it back to the attacker.
 
 
-<a id="org45a95d8"></a>
+<a id="org096cccb"></a>
 
 ### Adware
 
 Form of spyware, undesirable software that forces adverticement on you.
 
 
-<a id="org1f310e8"></a>
+<a id="org9ebf968"></a>
 
 ### Scareware
 
@@ -330,21 +444,21 @@ Social engineering tool, tricks the user to believe there's an
 unexistent thread.
 
 
-<a id="org770b658"></a>
+<a id="orgc56f656"></a>
 
 ### Browser Hijacking
 
 Hacker uses the client browser for mining or other purposes.
 
 
-<a id="org1aa16ae"></a>
+<a id="org3a64d29"></a>
 
 ### Potentially Unwanted Programs (PUPs)
 
 Programs that may be malware.
 
 
-<a id="org5dc177c"></a>
+<a id="org8ad0c9f"></a>
 
 ### Phishing
 
@@ -367,14 +481,14 @@ For example, sending millions of email addresses.
 -   **Smishing:** SMS
 
 
-<a id="orgc008be5"></a>
+<a id="orgecf6b45"></a>
 
 ### XSS Cross Site Scripting (Reflected)
 
 Injecting code in the HTML code of a webpage.
 
 
-<a id="org0d46172"></a>
+<a id="org2fdbb0b"></a>
 
 ### Spamming and Doxing
 
@@ -390,7 +504,7 @@ embarassment, etc.
 Someone doxed means someone has their private information public.
 
 
-<a id="org60ac2b0"></a>
+<a id="org92e8441"></a>
 
 ### Social Engineering, Scams and frauds
 
@@ -398,10 +512,18 @@ Someone doxed means someone has their private information public.
 or 'won' price.
 
 
-<a id="orgda4ada4"></a>
+<a id="orga0f4dd9"></a>
 
 ### CPU Hijackers - Crypto Mining Malware and Cryptojackers
 
 Javascript based mining tools on websites.
 
 App store apps.
+
+
+# Footnotes
+
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> The link is: <https://orgmode.org>
+
+\#+BEGIN<sub>EXAMPLE</sub>
+  if (lskdjfsd	) {
